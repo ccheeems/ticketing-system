@@ -74,7 +74,7 @@
               <div class = "navbar-sb-item mb-4">
                   <h5 class = "text-uppercase text-grey navbar-sb-item-title fs-12 ls-1">Management</h5>
                   <ul class = "navbar-sb-links p-0 list-unstyled">
-                      <li class = "navbar-sb-link my-3">
+                      <!-- <li class = "navbar-sb-link my-3">
                           <a href = "dashboard.php" class = "text-decoration-none d-flex align-items-center justify-content-between">
                               <div class = "text-light-blue d-flex align-items-center">
                                   <span class = "navbar-sb-icon me-3">
@@ -113,7 +113,7 @@
                                   <span class = "navbar-sb-text fs-14 fw-5 text-capitalize">Department</span>
                               </div>
                           </a>
-                      </li>
+                      </li> -->
                       <li class = "navbar-sb-link my-3">
                           <a href = "ticket.php" class = "text-decoration-none d-flex align-items-center justify-content-between">
                               <div class = "text-light-blue d-flex align-items-center">
@@ -169,6 +169,7 @@
                   </ul>
               </div>
           </div>
+
       </div>
     </div>
 
